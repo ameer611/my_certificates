@@ -18,3 +18,7 @@ I post Images of my certificates😁.
 ---
 ![Coursera certificate](https://github.com/ameer611/my_certificates/blob/main/CERTIFICATE_LANDING_PAGE~WR35BD0XMF35.jpeg)
 <p style="text-align:center">Supervised Machine Learning: Regression and Classification </p>
+
+---
+
+![Udemy certificate]()
